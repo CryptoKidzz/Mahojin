@@ -12,7 +12,7 @@
 ## Installation
 1. Clone this repository
 ```bash
-git clone https://github.com/AirdropLegionCommunity/Mahojin.git
+git clone https://github.com/0x-Disciple/Mahojin.git
 ```
 2. Install dependencies
 ```bash

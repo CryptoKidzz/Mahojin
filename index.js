@@ -1,6 +1,7 @@
 const fs = require('fs');
 const axios = require('axios');
 const chalk = require('chalk').default;
+const banner = require('./config/banner.js');
 
 const COOKIE_PATH = 'data.txt';
 const POINTS_URL = 'https://app.mahojin.ai/api/point';
